@@ -1,0 +1,338 @@
+﻿year,region,crop,production,yield
+2022,Alberta,Barley,5380670,4081
+2022,Alberta,Canary seed,,
+2022,Alberta,Rapeseed,5591701,2134
+2022,Alberta,Chick peas,18200,1448
+2022,Alberta,Corn for grain,44024,8677
+2022,Alberta,Flaxseed,83237,1603
+2022,Alberta,Lentils,334162,1503
+2022,Alberta,Oats,1054681,3463
+2022,Alberta,"Peas, dry",1555344,2946
+2022,Alberta,Soybeans,,
+2022,Alberta,Sunflower seed,,
+2022,Alberta,"Wheat, all",11343305,3742
+2022,Alberta,"Wheat, durum",1194495,2751
+2022,Alberta,"Wheat, spring",9963746,3906
+2022,British Columbia,Barley,76964,3203
+2022,British Columbia,Canary seed,,
+2022,British Columbia,Rapeseed,68975,1699
+2022,British Columbia,Chick peas,0,
+2022,British Columbia,Corn for grain,11838,10351
+2022,British Columbia,Flaxseed,118,1769
+2022,British Columbia,Lentils,978,1840
+2022,British Columbia,Oats,66709,2300
+2022,British Columbia,"Peas, dry",25784,2223
+2022,British Columbia,Soybeans,0,
+2022,British Columbia,Sunflower seed,0,
+2022,British Columbia,"Wheat, all",110846,3299
+2022,British Columbia,"Wheat, durum",2958,1588
+2022,British Columbia,"Wheat, spring",97436,3360
+2022,Manitoba,Barley,657317,3995
+2022,Manitoba,Canary seed,,
+2022,Manitoba,Rapeseed,3162428,2427
+2022,Manitoba,Chick peas,0,
+2022,Manitoba,Corn for grain,1331625,8843
+2022,Manitoba,Flaxseed,41690,2053
+2022,Manitoba,Lentils,,
+2022,Manitoba,Oats,1168612,4445
+2022,Manitoba,"Peas, dry",255507,3375
+2022,Manitoba,Soybeans,1318459,2890
+2022,Manitoba,Sunflower seed,77919,2306
+2022,Manitoba,"Wheat, all",5126368,4148
+2022,Manitoba,"Wheat, durum",53368,3763
+2022,Manitoba,"Wheat, spring",5032480,4156
+2022,Ontario,Barley,104588,4066
+2022,Ontario,Canary seed,0,
+2022,Ontario,Rapeseed,62528,2850
+2022,Ontario,Chick peas,,
+2022,Ontario,Corn for grain,9440801,10417
+2022,Ontario,Flaxseed,,
+2022,Ontario,Lentils,0,
+2022,Ontario,Oats,111869,3548
+2022,Ontario,"Peas, dry",9223,2882
+2022,Ontario,Soybeans,3996015,3230
+2022,Ontario,Sunflower seed,1989,1544
+2022,Ontario,"Wheat, all",2557300,6484
+2022,Ontario,"Wheat, durum",,
+2022,Ontario,"Wheat, spring",168128,4974
+2022,Quebec,Barley,105335,3360
+2022,Quebec,Canary seed,0,
+2022,Quebec,Rapeseed,38674,2336
+2022,Quebec,Chick peas,0,
+2022,Quebec,Corn for grain,3560877,9935
+2022,Quebec,Flaxseed,404,1598
+2022,Quebec,Lentils,0,
+2022,Quebec,Oats,210280,2747
+2022,Quebec,"Peas, dry",6315,2631
+2022,Quebec,Soybeans,1126353,2941
+2022,Quebec,Sunflower seed,,
+2022,Quebec,"Wheat, all",347135,3922
+2022,Quebec,"Wheat, durum",,
+2022,Quebec,"Wheat, spring",243245,3795
+2022,Saskatchewan,Barley,3550934,3409
+2022,Saskatchewan,Canary seed,143947,1322
+2022,Saskatchewan,Rapeseed,9923300,2161
+2022,Saskatchewan,Chick peas,127700,1556
+2022,Saskatchewan,Corn for grain,,
+2022,Saskatchewan,Flaxseed,347727,1456
+2022,Saskatchewan,Lentils,1993800,1337
+2022,Saskatchewan,Oats,2567136,3758
+2022,Saskatchewan,"Peas, dry",1570412,2160
+2022,Saskatchewan,Soybeans,36883,2005
+2022,Saskatchewan,Sunflower seed,,
+2022,Saskatchewan,"Wheat, all",15293389,2882
+2022,Saskatchewan,"Wheat, durum",4516489,2324
+2022,Saskatchewan,"Wheat, spring",10686207,3203
+2023,Alberta,Barley,4721060,3384
+2023,Alberta,Canary seed,,
+2023,Alberta,Rapeseed,5713100,2250
+2023,Alberta,Chick peas,20400,1165
+2023,Alberta,Corn for grain,131017,9415
+2023,Alberta,Flaxseed,21924,1172
+2023,Alberta,Lentils,186400,997
+2023,Alberta,Oats,642115,3254
+2023,Alberta,"Peas, dry",1098945,2236
+2023,Alberta,Soybeans,,
+2023,Alberta,Sunflower seed,,
+2023,Alberta,"Wheat, all",9375783,3021
+2023,Alberta,"Wheat, durum",759952,1964
+2023,Alberta,"Wheat, spring",8442799,3169
+2023,British Columbia,Barley,64143,2968
+2023,British Columbia,Canary seed,,
+2023,British Columbia,Rapeseed,82269,1967
+2023,British Columbia,Chick peas,0,
+2023,British Columbia,Corn for grain,4568,8530
+2023,British Columbia,Flaxseed,,
+2023,British Columbia,Lentils,,
+2023,British Columbia,Oats,66662,2680
+2023,British Columbia,"Peas, dry",12379,2172
+2023,British Columbia,Soybeans,0,
+2023,British Columbia,Sunflower seed,0,
+2023,British Columbia,"Wheat, all",100013,2476
+2023,British Columbia,"Wheat, durum",,
+2023,British Columbia,"Wheat, spring",88116,2427
+2023,Manitoba,Barley,664587,4057
+2023,Manitoba,Canary seed,10334,1793
+2023,Manitoba,Rapeseed,3152107,2499
+2023,Manitoba,Chick peas,0,
+2023,Manitoba,Corn for grain,1785503,8058
+2023,Manitoba,Flaxseed,26516,1584
+2023,Manitoba,Lentils,,
+2023,Manitoba,Oats,653251,3530
+2023,Manitoba,"Peas, dry",217996,3354
+2023,Manitoba,Soybeans,1566858,2436
+2023,Manitoba,Sunflower seed,82592,2414
+2023,Manitoba,"Wheat, all",5559310,4205
+2023,Manitoba,"Wheat, durum",60183,3346
+2023,Manitoba,"Wheat, spring",5381637,4222
+2023,Ontario,Barley,78039,3717
+2023,Ontario,Canary seed,0,
+2023,Ontario,Rapeseed,53574,2992
+2023,Ontario,Chick peas,0,
+2023,Ontario,Corn for grain,9977294,11110
+2023,Ontario,Flaxseed,0,
+2023,Ontario,Lentils,0,
+2023,Ontario,Oats,72527,3299
+2023,Ontario,"Peas, dry",5146,3430
+2023,Ontario,Soybeans,4036036,3458
+2023,Ontario,Sunflower seed,4977,2092
+2023,Ontario,"Wheat, all",3003600,6437
+2023,Ontario,"Wheat, durum",,
+2023,Ontario,"Wheat, spring",136272,4354
+2023,Quebec,Barley,78564,2480
+2023,Quebec,Canary seed,0,
+2023,Quebec,Rapeseed,33887,2292
+2023,Quebec,Chick peas,0,
+2023,Quebec,Corn for grain,3343080,9299
+2023,Quebec,Flaxseed,,
+2023,Quebec,Lentils,0,
+2023,Quebec,Oats,140450,2412
+2023,Quebec,"Peas, dry",5162,1844
+2023,Quebec,Soybeans,1323644,3289
+2023,Quebec,Sunflower seed,,
+2023,Quebec,"Wheat, all",277181,2775
+2023,Quebec,"Wheat, durum",10534,2635
+2023,Quebec,"Wheat, spring",181211,2499
+2023,Saskatchewan,Barley,3226892,3089
+2023,Saskatchewan,Canary seed,101546,1054
+2023,Saskatchewan,Rapeseed,10425800,2093
+2023,Saskatchewan,Chick peas,138700,1263
+2023,Saskatchewan,Corn for grain,,
+2023,Saskatchewan,Flaxseed,223810,1104
+2023,Saskatchewan,Lentils,1614600,1268
+2023,Saskatchewan,Oats,1034149,3180
+2023,Saskatchewan,"Peas, dry",1269204,2004
+2023,Saskatchewan,Soybeans,44656,1629
+2023,Saskatchewan,Sunflower seed,,
+2023,Saskatchewan,"Wheat, all",15021905,2655
+2023,Saskatchewan,"Wheat, durum",3393883,1722
+2023,Saskatchewan,"Wheat, spring",11563941,3152
+2024,Alberta,Barley,4229438,3259
+2024,Alberta,Canary seed,,
+2024,Alberta,Rapeseed,5598858,2191
+2024,Alberta,Chick peas,43960,1569
+2024,Alberta,Corn for grain,,
+2024,Alberta,Flaxseed,33836,1921
+2024,Alberta,Lentils,316295,1406
+2024,Alberta,Oats,630663,2793
+2024,Alberta,"Peas, dry",1164781,2381
+2024,Alberta,Soybeans,,
+2024,Alberta,Sunflower seed,,
+2024,Alberta,"Wheat, all",9939396,3228
+2024,Alberta,"Wheat, durum",1307581,2751
+2024,Alberta,"Wheat, spring",8395923,3293
+2024,British Columbia,Barley,62566,2944
+2024,British Columbia,Canary seed,,
+2024,British Columbia,Rapeseed,70663,1635
+2024,British Columbia,Chick peas,,
+2024,British Columbia,Corn for grain,,
+2024,British Columbia,Flaxseed,,
+2024,British Columbia,Lentils,,
+2024,British Columbia,Oats,61009,2553
+2024,British Columbia,"Peas, dry",25806,2225
+2024,British Columbia,Soybeans,0,
+2024,British Columbia,Sunflower seed,0,
+2024,British Columbia,"Wheat, all",116053,2909
+2024,British Columbia,"Wheat, durum",6245,2667
+2024,British Columbia,"Wheat, spring",96052,2768
+2024,Manitoba,Barley,511859,4212
+2024,Manitoba,Canary seed,,
+2024,Manitoba,Rapeseed,3016138,2253
+2024,Manitoba,Chick peas,0,
+2024,Manitoba,Corn for grain,1767084,8752
+2024,Manitoba,Flaxseed,27708,1701
+2024,Manitoba,Lentils,,
+2024,Manitoba,Oats,934350,4548
+2024,Manitoba,"Peas, dry",261682,3434
+2024,Manitoba,Soybeans,1696770,2961
+2024,Manitoba,Sunflower seed,40022,2235
+2024,Manitoba,"Wheat, all",5736073,4399
+2024,Manitoba,"Wheat, durum",35588,3646
+2024,Manitoba,"Wheat, spring",5644786,4404
+2024,Ontario,Barley,89883,4107
+2024,Ontario,Canary seed,0,
+2024,Ontario,Rapeseed,61007,2763
+2024,Ontario,Chick peas,0,
+2024,Ontario,Corn for grain,9627358,11298
+2024,Ontario,Flaxseed,,
+2024,Ontario,Lentils,0,
+2024,Ontario,Oats,91303,3450
+2024,Ontario,"Peas, dry",3702,2314
+2024,Ontario,Soybeans,4354506,3486
+2024,Ontario,Sunflower seed,5313,2217
+2024,Ontario,"Wheat, all",2560200,6247
+2024,Ontario,"Wheat, durum",,
+2024,Ontario,"Wheat, spring",86689,3334
+2024,Quebec,Barley,107610,3254
+2024,Quebec,Canary seed,0,
+2024,Quebec,Rapeseed,35894,2342
+2024,Quebec,Chick peas,,
+2024,Quebec,Corn for grain,3606811,10176
+2024,Quebec,Flaxseed,,
+2024,Quebec,Lentils,0,
+2024,Quebec,Oats,144611,2580
+2024,Quebec,"Peas, dry",,
+2024,Quebec,Soybeans,1425137,3425
+2024,Quebec,Sunflower seed,,
+2024,Quebec,"Wheat, all",304183,3422
+2024,Quebec,"Wheat, durum",,
+2024,Quebec,"Wheat, spring",176334,3004
+2024,Saskatchewan,Barley,3035313,3493
+2024,Saskatchewan,Canary seed,180397,1592
+2024,Saskatchewan,Rapeseed,10454084,2146
+2024,Saskatchewan,Chick peas,242808,1462
+2024,Saskatchewan,Corn for grain,67160,5565
+2024,Saskatchewan,Flaxseed,196015,1172
+2024,Saskatchewan,Lentils,2112396,1441
+2024,Saskatchewan,Oats,1469992,3296
+2024,Saskatchewan,"Peas, dry",1533101,2195
+2024,Saskatchewan,Soybeans,45488,1699
+2024,Saskatchewan,Sunflower seed,,
+2024,Saskatchewan,"Wheat, all",17192904,3012
+2024,Saskatchewan,"Wheat, durum",4971666,2406
+2024,Saskatchewan,"Wheat, spring",12082558,3353
+2025,Alberta,Barley,5313172,4340
+2025,Alberta,Canary seed,,
+2025,Alberta,Rapeseed,6349122,2544
+2025,Alberta,Chick peas,39319,2039
+2025,Alberta,Corn for grain,,
+2025,Alberta,Flaxseed,49811,2564
+2025,Alberta,Lentils,462879,2047
+2025,Alberta,Oats,875942,3291
+2025,Alberta,"Peas, dry",1823474,3064
+2025,Alberta,Soybeans,,
+2025,Alberta,Sunflower seed,,
+2025,Alberta,"Wheat, all",12283980,3834
+2025,Alberta,"Wheat, durum",1581258,2966
+2025,Alberta,"Wheat, spring",10432514,4011
+2025,British Columbia,Barley,78235,3964
+2025,British Columbia,Canary seed,,
+2025,British Columbia,Rapeseed,107289,2372
+2025,British Columbia,Chick peas,0,
+2025,British Columbia,Corn for grain,8012,8163
+2025,British Columbia,Flaxseed,0,
+2025,British Columbia,Lentils,,
+2025,British Columbia,Oats,101825,3820
+2025,British Columbia,"Peas, dry",31532,2893
+2025,British Columbia,Soybeans,,
+2025,British Columbia,Sunflower seed,,
+2025,British Columbia,"Wheat, all",137315,3762
+2025,British Columbia,"Wheat, durum",10504,4879
+2025,British Columbia,"Wheat, spring",105525,3541
+2025,Manitoba,Barley,534744,4570
+2025,Manitoba,Canary seed,,
+2025,Manitoba,Rapeseed,3062966,2510
+2025,Manitoba,Chick peas,,
+2025,Manitoba,Corn for grain,2164341,9228
+2025,Manitoba,Flaxseed,28338,2044
+2025,Manitoba,Lentils,,
+2025,Manitoba,Oats,953866,4439
+2025,Manitoba,"Peas, dry",271244,3451
+2025,Manitoba,Soybeans,1906154,2863
+2025,Manitoba,Sunflower seed,66550,2433
+2025,Manitoba,"Wheat, all",5863572,4414
+2025,Manitoba,"Wheat, durum",101955,4497
+2025,Manitoba,"Wheat, spring",5709419,4416
+2025,Ontario,Barley,79728,3740
+2025,Ontario,Canary seed,0,
+2025,Ontario,Rapeseed,59052,2789
+2025,Ontario,Chick peas,0,
+2025,Ontario,Corn for grain,9493238,11025
+2025,Ontario,Flaxseed,,
+2025,Ontario,Lentils,,
+2025,Ontario,Oats,70805,3425
+2025,Ontario,"Peas, dry",3614,2008
+2025,Ontario,Soybeans,3560610,3071
+2025,Ontario,Sunflower seed,,
+2025,Ontario,"Wheat, all",3030809,6322
+2025,Ontario,"Wheat, durum",,
+2025,Ontario,"Wheat, spring",94122,3780
+2025,Quebec,Barley,98936,3087
+2025,Quebec,Canary seed,0,
+2025,Quebec,Rapeseed,24373,2247
+2025,Quebec,Chick peas,0,
+2025,Quebec,Corn for grain,2948392,8855
+2025,Quebec,Flaxseed,,
+2025,Quebec,Lentils,0,
+2025,Quebec,Oats,123936,2437
+2025,Quebec,"Peas, dry",2603,2169
+2025,Quebec,Soybeans,1171346,2698
+2025,Quebec,Sunflower seed,,
+2025,Quebec,"Wheat, all",301838,3585
+2025,Quebec,"Wheat, durum",,
+2025,Quebec,"Wheat, spring",161586,3020
+2025,Saskatchewan,Barley,3522285,4205
+2025,Saskatchewan,Canary seed,226285,1819
+2025,Saskatchewan,Rapeseed,12203632,2488
+2025,Saskatchewan,Chick peas,442269,2225
+2025,Saskatchewan,Corn for grain,30491,7057
+2025,Saskatchewan,Flaxseed,375604,1743
+2025,Saskatchewan,Lentils,2894579,1911
+2025,Saskatchewan,Oats,1763257,3847
+2025,Saskatchewan,"Peas, dry",1800305,2593
+2025,Saskatchewan,Soybeans,108195,2858
+2025,Saskatchewan,Sunflower seed,,
+2025,Saskatchewan,"Wheat, all",18246567,3340
+2025,Saskatchewan,"Wheat, durum",5393885,2664
+2025,Saskatchewan,"Wheat, spring",12723069,3751
+(blank),(blank),(blank),,
