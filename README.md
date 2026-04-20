@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Smart Crop Analytics System
 
 A web-based data analysis application built with **Django** that allows users to explore Canadian agricultural data.
@@ -10,13 +9,13 @@ The system provides insights into crop production and yield trends through **int
 
 ## Interactive Charts (Chart.js)
 =======
-# 🌱 Smart Crop Analytics System
+# Smart Crop Analytics System
 
 A Django web application built for analyzing and visualizing Canadian crop data using a preloaded dataset. The system provides insights through interactive charts and dynamic filtering.
 
 ---
 
-# 📌 Features
+# Features
 
 ##  Interactive Charts (Chart.js)
 >>>>>>> d4ae991899efc288e6aa4c0cd63821351202807e
@@ -25,7 +24,6 @@ A Django web application built for analyzing and visualizing Canadian crop data 
 * Yield Over Time
 * Production by Region
 
-<<<<<<< HEAD
 ## Dynamic Filtering
 =======
 ##  Dynamic Filtering
@@ -36,7 +34,6 @@ A Django web application built for analyzing and visualizing Canadian crop data 
 * Search crops or regions
 * Sort results
 
-<<<<<<< HEAD
 ## Database Storage
 
 * Uses **SQLite** (no external setup required)
@@ -139,14 +136,14 @@ Each chart directly corresponds to a key question.
 
 ---
 
-## 📊 Chart 1: Production by Crop (Bar Chart)
+## Chart 1: Production by Crop (Bar Chart)
 
-### ❓ Question:
+### Question:
 
 * Which crops have the highest production in Canada?
 * How does production compare across different crops?
 
-### 📈 How the Chart Answers This:
+### How the Chart Answers This:
 
 * The bar chart displays total production for each crop.
 * Taller bars represent crops with higher production levels.
@@ -154,14 +151,14 @@ Each chart directly corresponds to a key question.
 
 ---
 
-## 📈 Chart 2: Yield Over Time (Line Chart)
+## Chart 2: Yield Over Time (Line Chart)
 
-### ❓ Question:
+### Question:
 
 * How has crop yield changed over time?
 * Are there trends or improvements in agricultural productivity?
 
-### 📉 How the Chart Answers This:
+### How the Chart Answers This:
 
 * The line chart plots average yield for each year.
 * The X-axis represents time (years), while the Y-axis shows yield.
@@ -169,9 +166,9 @@ Each chart directly corresponds to a key question.
 
 ---
 
-## 🗺️ Chart 3: Production by Region (Bar Chart)
+## Chart 3: Production by Region (Bar Chart)
 
-### ❓ Question:
+### Question:
 
 * Which regions contribute the most to crop production?
 * How does production differ between provinces?
@@ -186,7 +183,7 @@ Each chart directly corresponds to a key question.
 
 ##  Supporting Features (Filters & Table)
 
-### ❓ Questions:
+### Questions:
 
 * How does production or yield change when filtering by year?
 * What patterns appear when focusing on a specific region?
@@ -217,10 +214,9 @@ Each visualization in the application is designed to answer a specific analytica
 
 ---
 
-<<<<<<< HEAD
 #  Project Structure
 =======
-# 📁 Project Structure
+# Project Structure
 >>>>>>> d4ae991899efc288e6aa4c0cd63821351202807e
 
 ```
@@ -244,7 +240,6 @@ smart-crop-analytics/
 
 ---
 
-<<<<<<< HEAD
 #  Development Environment Setup
 
 Ensure your system meets the following requirements:
@@ -262,7 +257,7 @@ Ensure your system meets the following requirements:
 
 Check version:
 =======
-# ⚙️ Installation & Setup Guide
+# Installation & Setup Guide
 
 ## 1. Install Python
 
@@ -273,7 +268,6 @@ Check if Python is installed:
 python --version
 ```
 
-<<<<<<< HEAD
 Expected:
 
 ```
@@ -288,7 +282,6 @@ https://www.python.org/downloads/
 
 ---
 
-<<<<<<< HEAD
 ## 2. Clone the Repository
 =======
 ## 2. Clone or Download Project
@@ -299,7 +292,6 @@ git clone <your-repo-url>
 cd smart-crop-analytics/crop_project
 ```
 
-<<<<<<< HEAD
 =======
 Or download the ZIP and extract it.
 
@@ -312,7 +304,6 @@ Or download the ZIP and extract it.
 python -m venv venv
 ```
 
-<<<<<<< HEAD
 Activate:
 
 **Windows**
@@ -326,7 +317,6 @@ Activate:
 venv\Scripts\activate
 ```
 
-<<<<<<< HEAD
 **Mac/Linux**
 =======
 **Mac/Linux:**
@@ -338,7 +328,6 @@ source venv/bin/activate
 
 ---
 
-<<<<<<< HEAD
 ## 4. Install Dependencies
 =======
 ## 4. Install Django
@@ -350,7 +339,6 @@ pip install django
 
 ---
 
-<<<<<<< HEAD
 ## 5. Apply Migrations
 =======
 ## 5. Run Migrations
@@ -362,13 +350,12 @@ python manage.py migrate
 
 ---
 
-<<<<<<< HEAD
 ## 6. Database Setup
 
 This project includes a **preloaded SQLite database (`db.sqlite3`)**.
 
-✔ No manual data import required
-✔ Application is ready after migrations
+No manual data import required
+Application is ready after migrations
 
 ---
 
@@ -403,11 +390,10 @@ python manage.py runserver
 
 ---
 
-## 🌐 8. Open in Browser
+## 8. Open in Browser
 
 Go to:
 
-<<<<<<< HEAD
 ```
 http://127.0.0.1:8000/
 ```
@@ -442,11 +428,11 @@ http://127.0.0.1:8000/
 * Enter search text
 * Click Filter
 
-👉 Charts update automatically based on filters
+Charts update automatically based on filters
 
 ---
 
-## 📈 Charts
+## Charts
 >>>>>>> d4ae991899efc288e6aa4c0cd63821351202807e
 
 | Chart                | Description                |
@@ -460,7 +446,7 @@ http://127.0.0.1:8000/
 ##  Table
 
 * Displays filtered crop data
-<<<<<<< HEAD
+
 * Limited to improve performance
 =======
 >>>>>>> d4ae991899efc288e6aa4c0cd63821351202807e
@@ -468,7 +454,6 @@ http://127.0.0.1:8000/
 
 ---
 
-<<<<<<< HEAD
 # How Data Works
 
 * Data stored in **SQLite (`db.sqlite3`)**
@@ -512,7 +497,6 @@ Make sure Chart.js is included:
 
 ## Server not starting
 
-<<<<<<< HEAD
 Make sure you're in the correct folder:
 
 ```bash
@@ -529,7 +513,6 @@ python manage.py runserver
 
 ## Data not appearing
 
-<<<<<<< HEAD
 If needed (optional):
 =======
 Re-run import:
@@ -539,13 +522,12 @@ Re-run import:
 python manage.py shell
 exec(open('import_data.py').read())
 ```
-<<<<<<< HEAD
 
 ---
 
 # License
 =======
-# 📄 License
+# License
 >>>>>>> d4ae991899efc288e6aa4c0cd63821351202807e
 
 Educational use only
